@@ -1,8 +1,8 @@
-<p align="center"><img alt="SaoGhost 的个人博客" src="https://img.hacpai.com/file/2019/10/linuxclient24px1125509easyicon.net-16a99728.png"></p><h2 align="center">
+<p align="center"><img alt="SaoGhost 的个人博客" src="https://img.hacpai.com/file/2019/10/gentleman-cc9d4afa.png"></p><h2 align="center">
 SaoGhost 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">我是一个很急功近利的人，追求快，速成，结果反而越来越慢；当真的"慢"下来，才发现，“慢”才是块！</h4>
 <p align="center"><a title="SaoGhost 的个人博客" target="_blank" href="https://github.com/SaoGhost/solo-blog"><img src="https://img.shields.io/github/last-commit/SaoGhost/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/SaoGhost/solo-blog"><img src="https://img.shields.io/github/repo-size/SaoGhost/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@ SaoGhost 的个人博客
 
 ### 最新
 
+* [I/O复用](https://yanjj98.cn/articles/2019/10/16/1571199706018.html)
 * [文件描述符](https://yanjj98.cn/articles/2019/10/15/1571137506280.html)
 * [文件IO](https://yanjj98.cn/articles/2019/10/15/1571102317255.html)
 * [Linux 系统编程](https://yanjj98.cn/articles/2019/10/14/1571056229441.html)
