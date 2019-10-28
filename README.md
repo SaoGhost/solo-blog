@@ -10,6 +10,7 @@ SaoGhost 的个人博客
 
 ### 最新
 
+* [指针](https://yanjj98.cn/articles/2019/10/28/1572260202679.html)
 * [AVL树](https://yanjj98.cn/articles/2019/10/25/1572004469218.html)
 * [函数与指针 ](https://yanjj98.cn/articles/2019/10/21/1571662279084.html)
 * [I/O复用](https://yanjj98.cn/articles/2019/10/18/1571403097650.html)
