@@ -16,7 +16,6 @@ SaoGhost 的个人博客
 * [函数与指针 ](https://yanjj98.cn/articles/2019/10/21/1571662279084.html)
 * [I/O复用](https://yanjj98.cn/articles/2019/10/18/1571403097650.html)
 * [二分查找树](https://yanjj98.cn/articles/2019/10/17/1571303066493.html)
-* [文件描述符](https://yanjj98.cn/articles/2019/10/15/1571137506280.html)
 * [文件IO](https://yanjj98.cn/articles/2019/10/15/1571102317255.html)
 * [Linux ](https://yanjj98.cn/articles/2019/10/14/1571056229441.html)
 * [我在 GitHub 上的开源项目](https://yanjj98.cn/my-github-repos)
