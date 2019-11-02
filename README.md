@@ -10,6 +10,7 @@ SaoGhost 的个人博客
 
 ### 最新
 
+* [Nginx ](https://yanjj98.cn/articles/2019/11/01/1572613725664.html)
 * [Linux 文件和目录](https://yanjj98.cn/articles/2019/10/29/1572342613239.html)
 * [指针](https://yanjj98.cn/articles/2019/10/28/1572260202679.html)
 * [AVL树](https://yanjj98.cn/articles/2019/10/25/1572004469218.html)
